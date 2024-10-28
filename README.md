@@ -6,6 +6,7 @@ Le personnage principal doit sauver son chat en résolvant 3 puzzles dans 3 piè
 ## Moodboard
 
 ### Visuel
+![Moodboard](medias/moodboard_vr_proj03.png)
 
 ### Sonore
 
