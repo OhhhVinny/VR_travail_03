@@ -9,6 +9,7 @@ Le personnage principal doit sauver son chat en résolvant 3 puzzles dans 3 piè
 ![Moodboard](medias/moodboard_vr_proj03.png)
 
 ### Sonore
+[Musique d'ambiance](https://michaelghelfi.bandcamp.com/track/rangers-cabin)
 
 ## Carte environnement virtuel
 
