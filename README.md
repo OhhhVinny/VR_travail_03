@@ -15,7 +15,7 @@ Un jeune étudiant cherche son chat disparu. Après avoir étudié sa disparitio
 - [FX: Indices](https://pixabay.com/sound-effects/game-bonus-144751/)
 - [FX: Succès](https://pixabay.com/sound-effects/level-up-4-243762/)
 - [FX: Échec](https://pixabay.com/sound-effects/failure-drum-sound-effect-2-7184/)
-- [FX: Rire maléfique](https://pixabay.com/sound-effects/evil-laugh-89423/)
+- [FX: Rire maléfique](https://pixabay.com/sound-effects/witch-laughing-104760/)
 
 ## Carte environnement virtuel
 ### Pièce #01
