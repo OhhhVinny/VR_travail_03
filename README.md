@@ -1,7 +1,9 @@
 # VR_travail_03
 ## Résumé en une phrase
-Le personnage principal doit sauver son chat en résolvant 3 puzzles dans 3 pièces différentes 
+[nom du jeu] Est un jeu de type *Escape Room* où le joueur est invité à libérer son chat mis en captivité par une méchante sorcière en complètement 3 puzzles différents.
+
 ## Description
+Un jeune étudiant cherche son chat disparu. Après avoir étudié sa disparition, il se retrouve devant une vieille maison perdue au milieu d'une forêt sombre. Lorsqu'il entre celle-ci, il explore les environs quand soudainement il voit dans la pièce adjacente son chat pris en captivité par une méchante sorcière. Il retourne à l'accueil et réalise qu'il y a trois portes, chacune menant à un puzzle à résoudre. Lorsque les trois puzzles seront complétés, le chat sera libéré de sa cage et la méchante sorcière sera vécue.
 
 ## Moodboard
 
