@@ -22,5 +22,7 @@ Un jeune étudiant cherche son chat disparu. Après avoir étudié sa disparitio
 ![Carte pièce #01](medias/plan_piece_01.png)
 
 ## Schéma de programmation
+### Schéma général
+![Schema général](medias/schema_prog.drawio.png)
 ### Pièce #01
 ![Schema pièce #01](medias/schema_piece_01.png)
