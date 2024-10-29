@@ -19,6 +19,9 @@ Un jeune étudiant cherche son chat disparu. Après avoir étudié sa disparitio
 - [FX: Bouteilles de verre](https://pixabay.com/sound-effects/glass-ding-33653/)
 
 ## Carte environnement virtuel
+###Carte générale
+![Carte environnement générale](medias/carte_environnement.png)
+
 ### Pièce #01
 ![Carte pièce #01](medias/plan_piece_01.png)
 
