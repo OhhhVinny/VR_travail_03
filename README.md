@@ -18,5 +18,9 @@ Un jeune étudiant cherche son chat disparu. Après avoir étudié sa disparitio
 - [FX: Rire maléfique](https://pixabay.com/sound-effects/evil-laugh-89423/)
 
 ## Carte environnement virtuel
+### Pièce #01
+![Carte pièce #01](medias/plan_piece_01.png)
 
 ## Schéma de programmation
+### Pièce #01
+![Schema pièce #01](medias/schema_piece_01.png)
